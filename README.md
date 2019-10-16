@@ -15,7 +15,7 @@ Only using: Vanilla Javascript, CSS, Google Fonts and Ionic Icons. No jQuery use
   <li>practice global and local scope,</li>
   <li>exercise the DRY technique in some lines of code,</li>
 </ul>
-<br>
+
 ## Rules of the Game
 <ul>  
   <li>2 players, playing in rounds</li>
